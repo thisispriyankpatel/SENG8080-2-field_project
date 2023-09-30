@@ -163,4 +163,4 @@ else:
 * Karan Patel
 * Jay Thakkar
 * Tanishqa Sharma 
-* Priyank Patele
+* Priyank Patel
